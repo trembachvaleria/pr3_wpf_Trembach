@@ -1,0 +1,16 @@
+C:\Users\лера\OneDrive\Desktop\wpf_Trembach\wpf_Trembach\wpf_Trembach\bin\Debug\wpf_Trembach.exe.config
+C:\Users\лера\OneDrive\Desktop\wpf_Trembach\wpf_Trembach\wpf_Trembach\bin\Debug\wpf_Trembach.exe
+C:\Users\лера\OneDrive\Desktop\wpf_Trembach\wpf_Trembach\wpf_Trembach\bin\Debug\wpf_Trembach.pdb
+C:\Users\лера\OneDrive\Desktop\wpf_Trembach\wpf_Trembach\wpf_Trembach\obj\Debug\wpf_Trembach.csproj.AssemblyReference.cache
+C:\Users\лера\OneDrive\Desktop\wpf_Trembach\wpf_Trembach\wpf_Trembach\obj\Debug\MainWindow.g.cs
+C:\Users\лера\OneDrive\Desktop\wpf_Trembach\wpf_Trembach\wpf_Trembach\obj\Debug\App.g.cs
+C:\Users\лера\OneDrive\Desktop\wpf_Trembach\wpf_Trembach\wpf_Trembach\obj\Debug\wpf_Trembach_MarkupCompile.cache
+C:\Users\лера\OneDrive\Desktop\wpf_Trembach\wpf_Trembach\wpf_Trembach\obj\Debug\wpf_Trembach_MarkupCompile.lref
+C:\Users\лера\OneDrive\Desktop\wpf_Trembach\wpf_Trembach\wpf_Trembach\obj\Debug\MainWindow.baml
+C:\Users\лера\OneDrive\Desktop\wpf_Trembach\wpf_Trembach\wpf_Trembach\obj\Debug\wpf_Trembach.g.resources
+C:\Users\лера\OneDrive\Desktop\wpf_Trembach\wpf_Trembach\wpf_Trembach\obj\Debug\wpf_Trembach.Properties.Resources.resources
+C:\Users\лера\OneDrive\Desktop\wpf_Trembach\wpf_Trembach\wpf_Trembach\obj\Debug\wpf_Trembach.csproj.GenerateResource.cache
+C:\Users\лера\OneDrive\Desktop\wpf_Trembach\wpf_Trembach\wpf_Trembach\obj\Debug\wpf_Trembach.csproj.CoreCompileInputs.cache
+C:\Users\лера\OneDrive\Desktop\wpf_Trembach\wpf_Trembach\wpf_Trembach\obj\Debug\wpf_Trembach.exe
+C:\Users\лера\OneDrive\Desktop\wpf_Trembach\wpf_Trembach\wpf_Trembach\obj\Debug\wpf_Trembach.pdb
+C:\Users\лера\OneDrive\Desktop\wpf_Trembach\wpf_Trembach\wpf_Trembach\obj\Debug\wpf_Trembach.exe.config
